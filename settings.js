@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94760390292'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
+global.ownername = "🎸 pathum " //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
 global.socialm = "GitHub: Nero" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -64,9 +64,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['94760390292']
 global.ownertag = '94760390292' //ur tag number
 global.botname = '✫ ✫ ✫pathum✫ ✫ ✫' //ur bot name
-global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
+global.linkz = "https://chat.whatsapp.com/IPrEiWQCjwb8k8KO82NwyU //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/IPrEiWQCjwb8k8KO82NwyU //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/IPrEiWQCjwb8k8KO82NwyU //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
